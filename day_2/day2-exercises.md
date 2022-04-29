@@ -12,16 +12,16 @@
 
 2. What is the basic structure of an element used to link to another website?
 
-* *"<a href="url">text</a>"*
+* *"< a href = "url" > text < / a >"*
 
 3. What attribute should you include in a link to open a new tab when the link is clicked?
 
-* *"<a href="url" target="_blank">text</a>"*
+* *"< a href = "url" target = "_blank" > text < /a >"*
 
 4. How do you link to a specific part of the same page?
 
-* *1. "<a id="INSERT_YOUR_OBJECT_NAME_HERE">XYZ</a>"*
-* *2. "<a href="#INSERT_YOUR_OBJECT_NAME_HERE">To XYZ</a>"*
+* *1. "< a id = "INSERT_YOUR_OBJECT_NAME_HERE" >XYZ< /a >"*
+* *2. "< a href = "#INSERT_YOUR_OBJECT_NAME_HERE" > To XYZ < /a >"*
 
 
 ## Questions for Ch 10-12
